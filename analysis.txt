@@ -1,3 +1,5 @@
+Details of data analysis
+
 We should:
 
 See how long we need the firelighter to produce flames for.
