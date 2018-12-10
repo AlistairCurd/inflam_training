@@ -1,0 +1,5 @@
+We should:
+
+See how long we need the firelighter to produce flames for.
+See how many sticks we need per second of fire.
+
